@@ -1,0 +1,12 @@
+wandb
+pandas
+numpy
+torch
+scikit-learn
+scipy
+PyYAML
+matplotlib
+kagglehub
+fuzzywuzzy
+python-Levenshtein
+seaborn
